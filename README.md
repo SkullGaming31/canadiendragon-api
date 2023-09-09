@@ -1,4 +1,4 @@
-# DragonBot
+# canadiendragon-api
 <div id="top"></div>
 <!-- PROJECT SHIELDS -->
 <!--
@@ -29,18 +29,18 @@ guilds
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/skullgaming31/DragonBot">
+  <a href="https://github.com/skullgaming31/canadiendragon-api">
     <img src="./public/assets/images/logo.png" alt="Project Logo" width="100" height="100">
   </a>
 
-<h3 align="center">DragonBot</h3>
+<h3 align="center">canadiendragon-api</h3>
 
   <p align="center">
-    DragonBot<br>
+    canadiendragon-api<br>
     ·
-    <a href="https://github.com/skullgaming31/DragonBot/issues">Report Bugs</a>
+    <a href="https://github.com/skullgaming31/canadiendragon-api/issues">Report Bugs</a>
     ·
-    <a href="https://github.com/skullgaming31/DragonBot/issues">Request Feature</a>
+    <a href="https://github.com/skullgaming31/canadiendragon-api/issues">Request Feature</a>
   </p>
 </div>
 
@@ -112,7 +112,7 @@ Requirements
 1. Create a Discord Developer Application [Discord Developer Application](https://discord.com/developers/applications)
 2. Clone the repo
    ```sh
-   git clone https://github.com/skullgaming31/dragonbot.git
+   git clone https://github.com/skullgaming31/canadiendragon-api.git
    ```
 3. Install NPM packages
    ```sh
@@ -136,7 +136,7 @@ Requirements
 ## Roadmap
 
 
-See the [open issues](https://github.com/skullgaming31/dragonbot/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/skullgaming31/canadiendragon-api/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -183,14 +183,14 @@ Github: [Level Up Legends Lounge in Typescript](https://github.com/skullgaming31
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/SkullGaming31/DragonBot.svg?style=for-the-badge
-[contributors-url]: https://github.com/SkullGaming31/DragonBot/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/SkullGaming31/DragonBot.svg?style=for-the-badge
-[forks-url]: https://github.com/SkullGaming31/DragonBot/network/members
-[stars-shield]: https://img.shields.io/github/stars/SkullGaming31/DragonBot.svg?style=for-the-badge
-[stars-url]: https://github.com/SkullGaming31/DragonBot/stargazers
-[issues-shield]: https://img.shields.io/github/issues/SkullGaming31/DragonBot.svg?style=for-the-badge
-[issues-url]: https://github.com/SkullGaming31/DragonBot/issues
-[license-shield]: https://img.shields.io/github/license/SkullGaming31/DragonBot.svg?style=for-the-badge
-[license-url]: https://github.com/SkullGaming31/DragonBot/blob/main/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/SkullGaming31/canadiendragon-api.svg?style=for-the-badge
+[contributors-url]: https://github.com/SkullGaming31/canadiendragon-api/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/SkullGaming31/canadiendragon-api.svg?style=for-the-badge
+[forks-url]: https://github.com/SkullGaming31/canadiendragon-api/network/members
+[stars-shield]: https://img.shields.io/github/stars/SkullGaming31/canadiendragon-api.svg?style=for-the-badge
+[stars-url]: https://github.com/SkullGaming31/canadiendragon-api/stargazers
+[issues-shield]: https://img.shields.io/github/issues/SkullGaming31/canadiendragon-api.svg?style=for-the-badge
+[issues-url]: https://github.com/SkullGaming31/canadiendragon-api/issues
+[license-shield]: https://img.shields.io/github/license/SkullGaming31/canadiendragon-api.svg?style=for-the-badge
+[license-url]: https://github.com/SkullGaming31/canadiendragon-api/blob/main/LICENSE
 [product-screenshot]: images/screenshot.png
